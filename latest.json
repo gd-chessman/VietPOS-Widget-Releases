@@ -1,0 +1,6 @@
+{
+  "versionCode": 10,
+  "versionName": "0.2.4",
+  "apkUrl": "https://github.com/gd-chessman/VietPOS-Widget-Releases/releases/download/v0.2.4/VietPOS-Widget-release.apk",
+  "releaseNotes": "Cập nhật OTA trực tiếp từ GitHub (latest.json). Kiểm tra cập nhật trong app, không cần server POS."
+}
