@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "versionName": "0.2.8",
-  "apkUrl": "https://github.com/gd-chessman/VietPOS-Widget-Releases/releases/download/v0.2.8/VietPOS-Widget-release.apk",
-  "releaseNotes": "Sửa «Kiểm tra cập nhật»: bỏ chặn sau «Để sau», đọc latest.json không cache sai."
+  "versionCode": 16,
+  "versionName": "0.2.10",
+  "apkUrl": "https://github.com/gd-chessman/VietPOS-Widget-Releases/releases/download/v0.2.10/VietPOS-Widget-release.apk",
+  "releaseNotes": "Sửa hai thông báo đơn cũ (vd. M04-946/947) bị đẩy lại sau khi vuốt xóa; dedup theo mã đơn và id server."
 }
