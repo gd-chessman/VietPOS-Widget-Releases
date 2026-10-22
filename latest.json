@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "0.2.5",
-  "apkUrl": "https://github.com/gd-chessman/VietPOS-Widget-Releases/releases/download/v0.2.5/VietPOS-Widget-release.apk",
-  "releaseNotes": "Thông báo hệ thống Android hiển thị thời gian tạo (dd/MM/yyyy · HH:mm) từ server."
+  "versionCode": 13,
+  "versionName": "0.2.7",
+  "apkUrl": "https://github.com/gd-chessman/VietPOS-Widget-Releases/releases/download/v0.2.7/VietPOS-Widget-release.apk",
+  "releaseNotes": "Chống trùng thông báo hệ thống Android; cải thiện gửi ảnh chứng từ tablet về quầy (MIUI/LAN)."
 }
