@@ -1,6 +1,6 @@
 {
-  "versionCode": 17,
-  "versionName": "0.2.11",
-  "apkUrl": "https://github.com/gd-chessman/VietPOS-Widget-Releases/releases/download/v0.2.11/VietPOS-Widget-release.apk",
-  "releaseNotes": "Giờ «Cập nhật» trên widget theo Việt Nam; bỏ nhãn kích thước trên dòng HÔM NAY."
+  "versionCode": 20,
+  "versionName": "0.2.14",
+  "apkUrl": "https://github.com/gd-chessman/VietPOS-Widget-Releases/releases/download/v0.2.14/VietPOS-Widget-release.apk",
+  "releaseNotes": "Widget Thông báo full cao, đủ danh sách từ API; giờ Cập nhật VN; bỏ nhãn size HÔM NAY."
 }
