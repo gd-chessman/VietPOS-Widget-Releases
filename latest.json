@@ -1,6 +1,6 @@
 {
-  "versionCode": 21,
-  "versionName": "0.2.15",
-  "apkUrl": "https://github.com/gd-chessman/VietPOS-Widget-Releases/releases/download/v0.2.15/VietPOS-Widget-release.apk",
-  "releaseNotes": "Dòng đơn/TB trên widget thêm tỷ lệ khách/đơn (TB vào/mua) khớp dashboard POS."
+  "versionCode": 22,
+  "versionName": "0.2.16",
+  "apkUrl": "https://github.com/gd-chessman/VietPOS-Widget-Releases/releases/download/v0.2.16/VietPOS-Widget-release.apk",
+  "releaseNotes": "Widget Thông báo: hiện tiêu đề đơn kèm số tiền và dòng chi tiết (body); đồng bộ body từ inbox."
 }
