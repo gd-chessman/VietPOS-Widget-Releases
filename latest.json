@@ -1,6 +1,6 @@
 {
-  "versionCode": 22,
-  "versionName": "0.2.16",
-  "apkUrl": "https://github.com/gd-chessman/VietPOS-Widget-Releases/releases/download/v0.2.16/VietPOS-Widget-release.apk",
-  "releaseNotes": "Widget Thông báo: hiện tiêu đề đơn kèm số tiền và dòng chi tiết (body); đồng bộ body từ inbox."
+  "versionCode": 33,
+  "versionName": "0.2.27",
+  "apkUrl": "https://github.com/gd-chessman/VietPOS-Widget-Releases/releases/download/v0.2.27/VietPOS-Widget-release.apk",
+  "releaseNotes": "Đồng bộ widget + thông báo ~15s (app/service). Thông báo đổi PTTT đơn; widget: in lại HĐ · tiền, xóa SP giỏ · mã shop · NV; tag Hủy đỏ từng shop."
 }
