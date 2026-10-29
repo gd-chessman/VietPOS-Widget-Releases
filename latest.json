@@ -1,6 +1,6 @@
 {
-  "versionCode": 36,
-  "versionName": "0.2.30",
-  "apkUrl": "https://github.com/gd-chessman/VietPOS-Widget-Releases/releases/download/v0.2.30/VietPOS-Widget-release.apk",
-  "releaseNotes": "Ghép quầy ổn định hơn (LAN sinh mã, giữ socket khi đổi tab). Sửa xóa phiên PIN nhầm khi Wi‑Fi lag — chụp chứng từ không còn báo «chưa nhập PIN» lúc được lúc không."
+  "versionCode": 37,
+  "versionName": "0.2.31",
+  "apkUrl": "https://github.com/gd-chessman/VietPOS-Widget-Releases/releases/download/v0.2.31/VietPOS-Widget-release.apk",
+  "releaseNotes": "LAN chụp chứng từ ổn định hơn (ensureCaptureLanReady, giữ listener khi đã PIN). Nhãn mã đơn/loại chứng từ khi lưu ảnh vào Thư viện trên tablet (tên file + toast)."
 }
