@@ -1,6 +1,6 @@
 {
-  "versionCode": 33,
-  "versionName": "0.2.27",
-  "apkUrl": "https://github.com/gd-chessman/VietPOS-Widget-Releases/releases/download/v0.2.27/VietPOS-Widget-release.apk",
-  "releaseNotes": "Đồng bộ widget + thông báo ~15s (app/service). Thông báo đổi PTTT đơn; widget: in lại HĐ · tiền, xóa SP giỏ · mã shop · NV; tag Hủy đỏ từng shop."
+  "versionCode": 36,
+  "versionName": "0.2.30",
+  "apkUrl": "https://github.com/gd-chessman/VietPOS-Widget-Releases/releases/download/v0.2.30/VietPOS-Widget-release.apk",
+  "releaseNotes": "Ghép quầy ổn định hơn (LAN sinh mã, giữ socket khi đổi tab). Sửa xóa phiên PIN nhầm khi Wi‑Fi lag — chụp chứng từ không còn báo «chưa nhập PIN» lúc được lúc không."
 }
